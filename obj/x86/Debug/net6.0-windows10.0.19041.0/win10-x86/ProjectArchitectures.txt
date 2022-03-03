@@ -1,1 +1,0 @@
-C:\Users\bgursahani\source\repos\PackageSampleHostedApp\PackageSampleHostedApp.csproj;x86
